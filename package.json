@@ -2,7 +2,7 @@
   "name": "pathescaper",
   "displayName": "PathEscaper",
   "description": "Escaping the Windows path to insert into files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
