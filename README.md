@@ -9,7 +9,7 @@
 
 ## Использование
 
-Чтобы экранировать путь в редакторе, используйте команду **PathEscaper: Copy Escaped Path** или сочетание клавиш `Ctrl+Shift+V`.
+Чтобы экранировать путь в редакторе при вставке из Windows, используйте команду **PathEscaper: Copy Escaped Path** или сочетание клавиш `Ctrl+Shift+V`, это позволит вам вставить путь из Windows например из "C:\Users\Username\Documents" в "C:\\Users\\Username\\Documents".
 
 ## Лицензия
 
